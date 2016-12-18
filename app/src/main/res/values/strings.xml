@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="preview_button">PREV</string>
+    <string name="question_city">Constantinople aaaaa bbbbb ccccc  is the largest city in Turkey.</string>
+    <string name="question_country">Rusia is aaaaaa bbbbbbbb ccccccc the largest city in country.</string>
+    <string name="question_moutain">Xiangshan aaaaaa bbbbbbbb ccccccc is the largest city in moutain.</string>
+    <string name="question_lake">QingHai is the largest city in lake.</string>
+    <string name="question_animal">Elephant is the largest city in animal.</string>
+    <string name="question_plant">Sun is the largest city in plant.</string>
+    <string name="true_toast">TRUE</string>
+    <string name="false_toast">FALSE</string>
+    <string name="cheat_activity">Cheat</string>
+    <string name="cheat_text">Are you sure you want to do this?</string>
+    <string name="cheat_button">SHOW ANSWER</string>
+    <string name="cheat_answer_button">CHEAT!</string>
+</resources>
