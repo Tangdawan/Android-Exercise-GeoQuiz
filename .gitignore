@@ -17,3 +17,4 @@ bin/
 gen/
 out/
 *.jks
+.idea/vcs.xml
